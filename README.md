@@ -1,1 +1,31 @@
-# Materi-TagHTML
+# HTML Tag
+Tag adalah sebauh penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu di dalamnya berisi nama tag dan kadang juga ditambahkan dengan atribut.
+Berikut tag-tag pada HTML:
+- `<!DOCTYPE>` syntax mendefinisikan versi dari HTML yang digunakan dan harus dideklarasi sebelum tag <html>.
+- `<html></html>` adalah root element dari halaman HTML. Semua HTML tag lainnya harus dibungkus dengan tag ini.
+- `<head>` pada umumnya berisi `<title>`, konten css/js internal maupun link ke file css/js eksternal.
+- `<body>` berisi konten website yang ingin ditampilkan pada browser.
+- `<title>` Untuk menambahkan judul halaman yang nantinya akan ditampilkan di browser.
+- `<p>` Untuk menampilkan paragraf.
+- `<h1> to <h6>` Untuk menampilkan teks.
+- `<br />` Digunakan untuk berganti garis(spasi).
+- `<img />` Digunakan untuk menampilkan element gambar.
+- `<a>` Menandakan sebuah element tautan(hyperlink).
+- `<span>` Digunakan untuk mengelompokan tulisan dalam satu baris.
+- `<b>` Digunakan untuk membuat tulisan menjadi tebal.
+- `<i>` Digunakan untuk membuat huruf menjadi miring.
+- `<ul>` Sebagai **(unordered)** membuat daftar menggunakan simbol.
+- `<ol>` Sebagai **ordered** membuat daftar menggunakan angka, huruf, dan lainnya.
+- `<li>` Untuk mendefinisikan nilai-nilai dari list.
+- `<video>` Untuk menambahkan video pada halaman web.
+- `<source>` Untuk menambahkan format video atau audio.
+- `<audio>` Untuk menampilkan suara pada halaman web.
+- `<iframe>` Untuk menampilkan halaman website lainnya di halaman website yang kita buat.
+- `<table>`element utama dalam pembuatan tabel.
+- `<tr>` **(table row)** digunakan untuk membuat baris baru pada tabel .
+- `<td>` **(table data)** digunakan sebagai wadah dari data yang mau kita isi di dalam `<tr>`.
+- `<thead>` **(tag table)** Untuk mengelompokan `<tr>` di dalam suatu tabel.  Kita juga bisa mengelompokkan `<tr>` di dalam suatu tabel dengan menggunakan tag table head (`<thead>`), table body (`<tbody>`) dan table foot (`<tfoot>`).
+- `<form>` Untuk mengawali pembuatan form.
+- `<input>` untuk membuat kotak input saat mengisi data.
+- `<select>` dan `<option>` Untuk melihat pilihan dropdown pada halaman web.
+- `<mark>` Membuat teks ditandai.
